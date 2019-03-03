@@ -1,6 +1,6 @@
 # hemantjnypc.github.io/pt
 
-(hemantjnypc.github.io/pt)[hemantjnypc.github.io/pt/]
+[hemantjnypc.github.io/pt](hemantjnypc.github.io/pt/)
 
 ## Vuejs project - 'Corporate Presentation Tool' - "pt@1.0.1"
 
