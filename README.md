@@ -1,7 +1,7 @@
 # hemantjnypc.github.io/pt
 
 ## Vuejs project - 'Corporate Presentation Tool' - "pt@1.0.1"
-[hemantjnypc.github.io/pt](hemantjnypc.github.io/pt/)
+## [hemantjnypc.github.io/pt](hemantjnypc.github.io/pt/)
 
 ### Push 'Griditem label & content' as per below:-
 
